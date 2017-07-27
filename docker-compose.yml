@@ -1,5 +1,5 @@
 sysfood:
   image: lareinating/sysfoo:staging
   ports:
-    - 8889:8080
+    - 8877:8080
     
